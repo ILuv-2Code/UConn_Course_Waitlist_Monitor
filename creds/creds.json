@@ -1,0 +1,8 @@
+{
+    "username": "Your NETID username",
+    "password": "Your NETID password", 
+    "duo_webhook_url":"Discord Channel Webhook",
+    "course_webhook_url":"Discord Channel Webhook",
+    "error_webhook_url": "Discord Channel Webhook"
+
+}
