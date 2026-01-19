@@ -172,6 +172,8 @@ where msedgedriver
 
 ## TO DO
 - Refactor code for clarity and optimization
+- Add feature to switch/add classes when spots become open/available
 - Add support for alternative browsers (Chrome, Firefox)
 - Optional: Rewrite worker.py in compiled language for faster HTTP requests
+
 
