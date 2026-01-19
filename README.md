@@ -42,7 +42,7 @@ pip install -r requirements.txt
    - Copy the Webhook URL and paste to `creds.json`
    - Repeat for each channel (you need at least 3 channels/webhooks total)
 
-4. Adjust or create credentials file at `creds/creds.json`:
+4. Adjust credentials file at `creds/creds.json`:
 ```json
 {
     "username": "your_netid",
@@ -174,3 +174,4 @@ where msedgedriver
 - Refactor code for clarity and optimization
 - Add support for alternative browsers (Chrome, Firefox)
 - Optional: Rewrite worker.py in compiled language for faster HTTP requests
+
